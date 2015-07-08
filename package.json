@@ -1,0 +1,19 @@
+{
+  "name": "no-flo-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "noflo": "^0.5.13",
+    "noflo-core": "^0.1.14",
+    "noflo-filesystem": "^1.0.6",
+    "noflo-math": "0.0.6"
+  },
+  "description": "testing noflo",
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "blake",
+  "license": "ISC"
+}
