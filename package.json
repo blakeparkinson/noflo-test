@@ -5,12 +5,12 @@
     "noflo": "^0.5.13",
     "noflo-core": "^0.1.14",
     "noflo-filesystem": "^1.0.6",
+    "noflo-gravatar": "^0.1.1",
     "noflo-math": "0.0.6"
   },
   "description": "testing noflo",
   "main": "index.js",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "test"
   },
